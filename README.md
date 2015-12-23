@@ -21,3 +21,8 @@ $ yum install -y x86_64/repos-0.0.1-1.el7.centos.x86_64.rpm
 ```
 
 This can be easily extended at will to deploy arbitrary files in arbitrary positions on the filesystem.
+
+
+## Disclaimer
+
+This project is not affiliated with Fedora nor RedHat.
