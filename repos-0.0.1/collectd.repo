@@ -1,0 +1,6 @@
+[collectd]
+name=collectd
+baseurl=file:///backup/repos/collectd/el7/
+enabled=1
+gpgcheck=0
+priority=1
